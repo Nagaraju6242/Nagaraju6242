@@ -9,9 +9,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Final Year B.Tech student at IIITDMJ'23. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Software Developer at Cradlepoint. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🔭 C++, Python, SQL, Full Stack Developer.
+- 🔭 Python, SQL, Full Stack Developer.
 - ⚡ I am proficient at Problem Solving, Data Strutures and algorithms, Competitive Programming
 - 🌱 Full Stack Web Developer and SQL Developer.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/repalanagaraju/)
