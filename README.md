@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif" width="400"   /></p>
 
-### :man_technologist: &nbsp;About Me :
+### About Me :
 
 Software Developer at Cradlepoint. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
